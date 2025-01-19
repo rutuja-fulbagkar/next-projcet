@@ -1,0 +1,10 @@
+npx create-next-app@latest
+folder structure 
+header & footer
+
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/icons-material
+npm install @reduxjs/toolkit react-redux
+
+npm install next-auth@beta
+npx auth secret 
